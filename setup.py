@@ -7,7 +7,7 @@ with open("README.md", "r") as fh:
     long_description = fh.read()
 
 setup(
-    name="serial_library",
+    name="serial_packet",
     version="0.1",
     description="Serial Packet Library",
     long_description=long_description,
